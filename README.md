@@ -8,6 +8,8 @@ This is an example project that demonstrates how to create a combined chart (lin
 - Uses Chart.js library to render the chart.
 - Utilizes Bootstrap for a responsive layout.
 
+![Combined Chart](images/chart.png)
+
 ## Prerequisites
 
 - Web browser with JavaScript support.
