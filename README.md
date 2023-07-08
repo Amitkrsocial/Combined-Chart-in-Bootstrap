@@ -17,7 +17,7 @@ This is an example project that demonstrates how to create a combined chart (lin
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/combined-chart-example.git`
+1. Clone the repository: `git clone (https://github.com/Amitkrsocial/Combined-Chart-in-Bootstrap)`
 2. Open the `index.html` file in a web browser.
 3. The combined chart will be displayed on the webpage.
 
